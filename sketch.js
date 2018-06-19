@@ -10,4 +10,5 @@ function setup() {
 
 function draw() {
   f.show();
+  f.simulate();
 }
